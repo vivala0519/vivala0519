@@ -1,4 +1,4 @@
-
+<h3 align="center">Endure and Type, Get Development Knowledge </h3>
 
 <!--
 **vivala0519/vivala0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></p>
 
 <h3 align="center">Contact</h3>
-<p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a><a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
+<p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
