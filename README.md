@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🛠 Tech Stack 🛠
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
