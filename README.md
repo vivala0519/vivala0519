@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=1500&height=300&section=header&text=Dzeko&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Endure%20and%20Type,%20Get%20Development%20Knowledge&descAlignY=51&descAlign=62)
 
-<h3 align="center">Endure and Type, Get Development Knowledge </h3>
 
 <!--
 **vivala0519/vivala0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
