@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"><br/><br/>
 <img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
                                                                  
-                                                                 </div>
-
+</div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
