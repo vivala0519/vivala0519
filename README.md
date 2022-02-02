@@ -1,4 +1,4 @@
-# ***Dzeko***🐢
+# ***Dzeko***🐢<a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a>  &nbsp; &nbsp;<a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EEE8AA&height=100&section=header&animation=fadeIn)
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 <h2 align="center">🙋‍♂️Contact</h2>
-<p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a>  &nbsp; &nbsp;<a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
+<p align="center"></p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
