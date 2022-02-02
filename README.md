@@ -1,4 +1,4 @@
-# ***Dzeko***   <a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a>🐢
+# 🐢***Dzeko***   <a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EEE8AA&height=100&section=header&animation=fadeIn)
 <!--
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="background-color="black">
 <h1 align="center">⌨ Tech Stack</h1>
 <p align="center"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=#3776AB"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></p>
 <p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React--Native-black?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></p>
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"><br/><br/>
 <img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
-
+                                                                 
+                                                                 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
