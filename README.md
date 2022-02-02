@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <h2 align="center">Algorithm - CodeWars & BOJ</h2>
 <p align="center">
 <img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519)](https://solved.ac/vivala0519/)</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519)](https://solved.ac/vivala0519/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
