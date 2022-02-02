@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <h2 align="center">Contact</h2>
 <p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
 
-<img src="https://www.codewars.com/users/vivala0519/badges/large">
+<p align="center">CodeWars Rank<br/>
+<img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
