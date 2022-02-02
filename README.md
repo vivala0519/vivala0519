@@ -1,4 +1,4 @@
-<h1>Dzeko🐢</h1>
+<h1 align="center">Dzeko🐢</h1>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EEE8AA&height=130&section=header&text=Endure%20and%20Type,%20Get%20Development%20Knowledge&fontSize=23&animation=fadeIn&fontColor=6495ED&fontAlignY=20)
 <!--
