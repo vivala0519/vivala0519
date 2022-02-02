@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <br/><br/>
-<h1 align="center">📈 Algorithm - BOJ & CodeWars</h1>
+<h1 align="center">📈 BOJ & CodeWars</h1>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"><br/><br/>
 <img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
