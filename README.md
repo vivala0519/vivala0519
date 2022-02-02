@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Algorithm - CodeWars & BOJ</h2>
 <p align="center">
-<img src="https://www.codewars.com/users/vivala0519/badges/large"><br/>
+<img src="https://www.codewars.com/users/vivala0519/badges/large"><br/><br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"></p>
 
 
