@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=EEE8AA&height=270&section=header&text=Dzeko&fontSize=70&animation=fadeIn&fontColor=6495ED&fontAlignY=35&desc=Endure%20and%20Type,%20Get%20Development%20Knowledge&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EEE8AA&height=270&section=header&fontSize=70&animation=fadeIn&fontColor=6495ED&fontAlignY=35&desc=Endure%20and%20Type,%20Get%20Development%20Knowledge&descAlignY=51&descAlign=62)
 <!--
 **vivala0519/vivala0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">Contact</h2>
 <p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
