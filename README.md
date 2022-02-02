@@ -21,14 +21,16 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/></p>
 
 
-<h2 align="center">🙋‍♂️Contact</h2>
-<p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
-
-
+<br/><br/>
 <h2 align="center">📈 Algorithm - CodeWars & BOJ</h2>
 <p align="center">
 <img src="https://www.codewars.com/users/vivala0519/badges/large"><br/><br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"></p>
+
+
+<br/><br/>
+<h2 align="center">🙋‍♂️Contact</h2>
+<p align="center"><a href="https://velog.io/@vivala0519"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@vivala0519"/></a> <a href="https://www.instagram.com/sgo_lee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sgo_lee/"/></a></p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
