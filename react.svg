@@ -47,8 +47,8 @@
       }
     </style>
   </def>
-  <ellipse class="react-ellipse" cx="50" cy="50" rx="40" ry="12"></ellipse>
-  <ellipse class="react-ellipse react-ellipse-2" cx="50" cy="50" rx="40" ry="12"></ellipse>
-  <ellipse class="react-ellipse react-ellipse-3" cx="50" cy="50" rx="40" ry="12"></ellipse>
-  <ellipse class="react-ellipse-4" cx="50" cy="50" rx="5" ry="5"></ellipse>
+  <ellipse class="react-ellipse" cx="50" cy="50" rx="40" ry="17"></ellipse>
+  <ellipse class="react-ellipse react-ellipse-2" cx="50" cy="50" rx="40" ry="17"></ellipse>
+  <ellipse class="react-ellipse react-ellipse-3" cx="50" cy="50" rx="40" ry="17"></ellipse>
+  <ellipse class="react-ellipse-4" cx="50" cy="50" rx="8" ry="8"></ellipse>
 </svg>
