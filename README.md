@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"><br/><br/>
 <img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
-                                                                 
+
+<br/><br/>                                                                 
+<h1 align="center">💡 My Git Stats 💡</h1>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivala0519&hide=stars,issues&hide_title=true&show_icons=true&include_all_commits=false&theme=merko" />
+</p>                                                                 
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
