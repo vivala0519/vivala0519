@@ -15,7 +15,7 @@
 <h3 align="center">Main</h3>
 <div align="center">
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="react2.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /><img src="python.gif" width="100" height="100"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="react2.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
 </div></div>
 <h3 align="center">&</h3>
 <p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></p> 
