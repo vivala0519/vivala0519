@@ -5,7 +5,7 @@
 <div align="center" style="text-align:center">
   <h2>✒️ Development Diary </h2>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vivala0519&tag=TIL&color=dark)](https://velog.io/@vivala0519)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vivala0519)](https://velog.io/@vivala0519)
   
 <br/>
   
@@ -15,13 +15,13 @@
 <h3 align="center">Main</h3>
 <div align="center">
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="react2.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="vue2.gif" alt="icon" width="80" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /><img src="react2.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
 </div></div>
 <h3 align="center">&</h3>
 <p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></p> 
 <p align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"/> </p>
 <p align="center"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a></p>
-<p align="center"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/></p>
+
 
 
 <br/><br/>
@@ -30,10 +30,6 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=vivala0519"><br/><br/>
 <img src="https://www.codewars.com/users/vivala0519/badges/large"></p>
 
-<div align="center" style="text-align:center">
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=vivala0519&tag=Algorithm%20Diary&color=dark)](https://velog.io/@vivala0519)
-  
 <br/>
 <br/><br/>                                                                 
 <h2 align="center">💡 Git Stats 💡</h2>
