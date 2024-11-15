@@ -46,9 +46,9 @@
 />
 </a><br/>
 </div>
-<div align="center"> 
+<!-- <div align="center"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvivala0519%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 </div>
-
+ -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
